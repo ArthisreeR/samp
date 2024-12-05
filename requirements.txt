@@ -1,0 +1,12 @@
+statsmodels==0.13.2
+fastapi==0.75.0
+uvicorn==0.17.6
+requests==2.31.0
+conda-pack==0.6.0
+python-highcharts==0.4.2
+scikit-learn==0.24.2
+simplejson==3.17.6
+python-multipart==0.0.5
+wincertstore==0.2
+psycopg2-binary==2.9.3
+pandas==1.2.4
